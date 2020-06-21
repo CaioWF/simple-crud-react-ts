@@ -1,0 +1,19 @@
+#app {
+  height: 100vh;
+}
+
+#app .content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  padding: 32px;
+}
+
+#app .content .form-wrapper {
+  display: flex;
+  margin-right: 25px;
+}
+
+#app .content .form-wrapper {
+  display: flex;
+}
